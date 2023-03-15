@@ -11,3 +11,6 @@ dist/
 # Logs and runtime data
 logs/
 *.log
+
+# Environment variables
+.env
