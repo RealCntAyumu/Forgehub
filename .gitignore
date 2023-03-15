@@ -1,0 +1,13 @@
+# Forge related files
+node_modules/
+build/
+dist/
+*.zip
+
+# Editor related files
+.vscode/
+.idea/
+
+# Logs and runtime data
+logs/
+*.log
